@@ -1,5 +1,5 @@
 /data/*
 !/data/.gitkeep
-!/output/.gitkeep
 /output/*
+!/output/.gitkeep
 .vscode
